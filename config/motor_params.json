@@ -1,0 +1,15 @@
+{
+  "motor_type": "PMSM",
+  "poles": 8,
+  "Rs": 0.2,
+  "Ld": 0.002,
+  "Lq": 0.002,
+  "flux_linkage": 0.175,
+  "J": 0.01,
+  "B": 0.001,
+  "max_current": 20,
+  "max_voltage": 48,
+  "dc_bus_voltage": 48,
+  "sample_time": 0.0001,
+  "simulation_time": 2.0
+}
